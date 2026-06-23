@@ -1,0 +1,17 @@
+body {
+    padding-top: 56px; /* Offsets content down so navbar doesn't cover elements */
+    font-family: system-ui, -apple-system, sans-serif;
+}
+.hero-section {
+    min-height: 75vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.75)), 
+                url('images/img1.jpg') no-repeat center center;
+    background-size: cover;
+}
+.max-w-md { max-width: 500px; }
+.card-img-top { height: 200px; object-fit: cover; }
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #0d6efd;
+}
