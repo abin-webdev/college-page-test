@@ -1,5 +1,5 @@
 body {
-    padding-top: 56px; /* Offsets content down so navbar doesn't cover elements */
+    padding-top: 56px; 
     font-family: system-ui, -apple-system, sans-serif;
 }
 .hero-section {
